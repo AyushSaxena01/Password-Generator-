@@ -1,0 +1,1 @@
+# This application can generate passwords of specified length. the password includes special character, numbers, lowercase and uppercase character. 
